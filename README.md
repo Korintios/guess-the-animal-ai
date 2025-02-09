@@ -121,8 +121,3 @@ Se encarga de la visualización de imágenes para verificar la calidad de los da
 - Aumentar el número de épocas para mejorar la precisión.
 - Probar diferentes optimizadores o tasas de aprendizaje.
 - Implementar técnicas de data augmentation para mejorar la robustez del modelo.
-
----
-
-Esta documentación proporciona una visión integral de cómo funciona el proyecto, facilitando su mantenimiento y evolución futura. 🚀
-
