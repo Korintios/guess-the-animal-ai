@@ -1,0 +1,6 @@
+torch
+torchvision
+tkinter
+numpy
+matplotlib
+kagglehub
